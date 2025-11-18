@@ -8,19 +8,19 @@
 ### clash订阅链接（clash meta内核系客户端使用）
 
 ```
-https://goclash.topmarco.tech/
+https://go6.marcozf.top/
 ```
 
 ### singbox订阅链接（除了windows平台无图形客户端，其他平台均有图形化界面客户端)
 
 ```
-https://goclash.topmarco.tech/sb
+https://go6.marcozf.top/sb
 ```
 
 ### 通用base64链接 （<mark>此订阅链接已不在维护，推荐使用singbox或者clash订阅链接<mark>）
 
 ```
-https://gob64.topmarco.tech
+https://go64.marcozf.top
 ```
 
 
